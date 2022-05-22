@@ -28,3 +28,5 @@
 **Contact**  
 
 [👔 LinkedIn](https://linkedin.com/in/danieldanielecki) · [🐦 Twitter](https://twitter.com/ddanielecki)
+
+![Visits](https://visitor-badge.glitch.me/badge?page_id=danieldanielecki.visitor-badge&left_text=Visits)
